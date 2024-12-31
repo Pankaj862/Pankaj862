@@ -1,6 +1,6 @@
 ## Hi there 👋
 <h1 align="center">Hi 👋, I'm Pankaj Bisht</h1>
-<h3 align="center">👨‍💻 Hi, I'm Pankaj Bisht! I’m a B.Tech undergrad at MSIT with a passion for coding, technology, and creating innovative solutions. I'm an aspiring Full Stack Developer, currently diving deep into web development and honing my skills in front-end and back-end technologies. 📚 Currently, I'm focused on mastering Data Structures and Algorithms in C++ while exploring modern tools and frameworks to enhance my expertise. I love problem-solving, learning new technologies, and contributing to meaningful projects. 🌟 I believe in continuous learning and collaboration to build impactful solutions. Let’s connect and create something amazing together!</h3>
+<h3 align="center"> I’m a B.Tech undergrad at MSIT with a passion for coding, technology, and creating innovative solutions. I'm an aspiring Full Stack Developer, currently diving deep into web development and honing my skills in front-end and back-end technologies. 📚 Currently, I'm focused on mastering Data Structures and Algorithms in C++ while exploring modern tools and frameworks to enhance my expertise. I love problem-solving, learning new technologies, and contributing to meaningful projects. 🌟 I believe in continuous learning and collaboration to build impactful solutions. Let’s connect and create something amazing together!</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
